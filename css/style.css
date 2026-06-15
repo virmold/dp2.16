@@ -1,0 +1,13 @@
+.badge{
+    font-size: 14px;
+    font-weight: 700;
+}
+.processing{
+    color: #e65100;
+}
+.shipped{
+    color: #1565c0;
+}
+.delivered{
+    color: #2e7d32;
+}
